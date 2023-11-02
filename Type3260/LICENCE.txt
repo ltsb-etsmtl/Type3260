@@ -5,10 +5,11 @@ Feel free to use the model and adapt or extend it to fulfill your needs.
 
 We would however request that you please:
 
-•	Quote us in any publications when you use our type for your simulations
-•	Keep us informed of modifications you've made to the source code and your experience with the type
-•	We can only give little support because our projects concerning PCM are finished. No further work is planed using this type.
-•	The model has only been validated for some special conditions, see chapter 6 of Dre. D'Avignon's thesis, in the documentation section. 
+â€¢	Quote us in any publications when you use our type for your simulations. Please cite the following publication when refering to this model :
+Katherine D'Avignon & MichaÃ«l Kummert (2018) Modeling horizontal storage tanks with encapsulated phase change materials for building performance simulation, Science and Technology for the Built Environment, 24:4, 327-342, DOI: 10.1080/23744731.2018.1438012
+â€¢	Keep us informed of modifications you've made to the source code and your experience with the type
+â€¢	We can only give little support because our projects concerning PCM are finished. No further work is planed using this type.
+â€¢	The model has only been validated for some special conditions, see chapter 6 of Dre. D'Avignon's thesis, in the documentation section. 
 	We decline any responsibility for any results you get by using the type in your simulations outside these specific parameters.
   
 Good luck with your simulations.
