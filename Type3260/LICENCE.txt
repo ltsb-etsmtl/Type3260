@@ -1,0 +1,14 @@
+Type 3260 PCM storage tank model
+
+We distribute the Type3260 "PCM storage tank model" including the source code (open source).
+Feel free to use the model and adapt or extend it to fulfill your needs.
+
+We would however request that you please:
+
+•	Quote us in any publications when you use our type for your simulations
+•	Keep us informed of modifications you've made to the source code and your experience with the type
+•	We can only give little support because our projects concerning PCM are finished. No further work is planed using this type.
+•	The model has only been validated for some special conditions, see chapter 6 of Dre. D'Avignon's thesis, in the documentation section. 
+	We decline any responsibility for any results you get by using the type in your simulations outside these specific parameters.
+  
+Good luck with your simulations.
