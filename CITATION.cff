@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: D'Avignon
+  given-names: Katherine
+orcid: https://orcid.org/0000-0002-0146-9981
+- family-names: Kummert
+  given-names: Michaël
+orcid: https://orcid.org/0000-0003-1606-8344
+title: Type 3260
+version: v1.0.0
+date of version: 2016-12-12
+date-released on GitHub: 2023-11-07
