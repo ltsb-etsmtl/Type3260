@@ -1,10 +1,8 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
-
 D'Avignon, K., & Kummert, M. (2016). ltsb-etsmtl/Type3260. 
 In Science and Technology for the Built Environment (v1.0.0, Vol. 24, Numéro 4, p. 327‑342). 
 Zenodo. https://doi.org/10.5281/zenodo.10079199
-
 authors:
 - family-names: D'Avignon
   given-names: Katherine
