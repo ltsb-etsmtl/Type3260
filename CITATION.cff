@@ -1,18 +1,22 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
-D'Avignon, K., & Kummert, M. (2016). ltsb-etsmtl/Type3260. 
-In Science and Technology for the Built Environment (v1.0.0, Vol. 24, Numéro 4, p. 327‑342). 
-Zenodo. https://doi.org/10.5281/zenodo.10079199
 authors:
-- family-names: D'Avignon
-  given-names: Katherine
-orcid: https://orcid.org/0000-0002-0146-9981
-- family-names: Kummert
-  given-names: Michaël
-orcid: https://orcid.org/0000-0003-1606-8344
-title: Type 3260 
+- family-names: "D'Avignon"
+  given-names: "Katherine"
+  orcid: "https://orcid.org/0000-0002-0146-9981"
+- family-names: "Kummert"
+  given-names: "Michaël"
+  orcid: "https://orcid.org/0000-0003-1606-8344"
+title: "Type 3260" 
 version: v1.0.0
-date of version: 2016-12-12
-TRNSYS version : TRNSYS v16
-date-released on GitHub: 2023-11-07
 DOI: 10.5281/zenodo.10079199
+date-released: 2016-12-12
+url: "https://github.com/ltsb-etsmtl/Type3260"
+journal : "Science and Technology for the Built Environment"
+month: 3
+start: 327 # First page number
+end: 342 # Last page number
+title: "Modeling horizontal storage tanks with encapsulated phase change materials for building performance simulation"
+issue: 4
+volume: 24
+year: 2018
