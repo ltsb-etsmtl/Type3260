@@ -12,11 +12,3 @@ version: v1.0.0
 DOI: 10.5281/zenodo.10079199
 date-released: 2016-12-12
 url: "https://github.com/ltsb-etsmtl/Type3260"
-journal : "Science and Technology for the Built Environment"
-month: 3
-start: 327 # First page number
-end: 342 # Last page number
-title: "Modeling horizontal storage tanks with encapsulated phase change materials for building performance simulation"
-issue: 4
-volume: 24
-year: 2018
